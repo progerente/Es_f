@@ -1,0 +1,10 @@
+Término	Definición
+ArcGIS	Plataforma principal de Esri para análisis geoespacial y visualización de mapas.
+Cliente	Organización o persona que adquiere productos o servicios de Esri.
+Usuario	Persona que hace uso de la plataforma ArcGIS u otros productos Esri.
+Solución	Conjunto de productos, servicios y asesorías que resuelven una necesidad geoespacial.
+Licenciamiento	Esquema bajo el cual se autoriza el uso de productos Esri.
+Comunidad SIG	Red de usuarios y profesionales que utilizan tecnologías SIG para distintos fines.
+Transformación digital	Modernización basada en tecnología geoespacial para optimizar procesos.
+ArcGIS Online	Versión en la nube de la plataforma ArcGIS para publicación y análisis web.
+ArcGIS Enterprise	Versión instalada localmente para soluciones GIS corporativas.

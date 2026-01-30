@@ -1,0 +1,33 @@
+# Microsoft 365 / Azure AD Configuration
+# Obtener desde: https://portal.azure.com
+CLIENT_ID=tu_azure_ad_client_id_aqui
+CLIENT_SECRET=tu_azure_ad_client_secret_aqui
+TENANT_ID=tu_azure_ad_tenant_id_aqui
+
+# OpenAI API Configuration
+# Obtener desde: https://platform.openai.com/api-keys
+OPENAI_API_KEY=sk-tu-openai-api-key-aqui
+
+# PostgreSQL Database Configuration
+# Formato: postgresql://usuario:contraseña@host:puerto/nombre_base_datos
+DATABASE_URL=postgresql://clima_user:tu_password_segura@localhost:5432/clima_organizacional
+
+# PostgreSQL Individual Variables (opcionales si usas DATABASE_URL)
+PGUSER=clima_user
+PGPASSWORD=tu_password_segura
+PGDATABASE=clima_organizacional
+PGHOST=localhost
+PGPORT=5432
+
+# Session Secret
+# Generar con: openssl rand -base64 32
+SESSION_SECRET=genera_un_secreto_aleatorio_largo_y_seguro_aqui
+
+# Application Configuration
+NODE_ENV=production
+PORT=5000
+
+# Configuración Adicional (Opcional)
+# LOG_LEVEL=info
+# MAX_EMAILS_PER_BATCH=1000
+# OPENAI_MODEL=gpt-4o
